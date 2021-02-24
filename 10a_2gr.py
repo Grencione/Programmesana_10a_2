@@ -22,6 +22,6 @@ print(5+6)
 
 11 Stukone Patrîcija
 
-12 Tûcis Òikita
-
+12 Tūcis Ņikita
+print(4+28247)
 13 Zakrevskis Òikita
