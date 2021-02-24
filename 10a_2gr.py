@@ -11,7 +11,7 @@ print(5+6)
 5 Lanka Elîna
 
 6 Lazarevs Artjoms
-
+print(12+11)
 7 Ïebede Anastasija
 
 8 Maïinovska Karîna
