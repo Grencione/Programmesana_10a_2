@@ -3,7 +3,7 @@ print(5+6)
 1 Apsîtis Andris
 
 2 Bçrziòð Oïegs
-
+print(10+8)
 3 Èerniðova Sofija
 
 4 Gorjuðkins Iïja
