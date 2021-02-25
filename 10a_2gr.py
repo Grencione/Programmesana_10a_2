@@ -13,7 +13,7 @@ print(5+6)
 6 Lazarevs Artjoms
 
 7 Ïebede Anastasija
-
+print(90-4)
 8 Maïinovska Karîna
 
 9 Mieme Karîna
