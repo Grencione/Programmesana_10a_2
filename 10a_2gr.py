@@ -18,7 +18,7 @@ print(10+6)
 print(10-8)
 
 9 Mieme Karîna
-
+print(10+4)
 10 Orlova Sofija
 
 11 Stukone Patrîcija
