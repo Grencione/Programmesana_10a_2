@@ -15,6 +15,7 @@ print(10+6)
 7 Ïebede Anastasija
 
 8 Maïinovska Karîna
+print(10-8)
 
 9 Mieme Karîna
 
