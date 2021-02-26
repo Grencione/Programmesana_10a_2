@@ -1,5 +1,5 @@
 Tatjana Grencione
-print(5+6)
+print(10+6)
 1 Apsîtis Andris
 
 2 Bçrziòð Oïegs
