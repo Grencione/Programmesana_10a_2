@@ -5,7 +5,7 @@ print(5+6)
 2 Bçrziòð Oïegs
 
 3 Èerniðova Sofija
-
+print(6+100)
 4 Gorjuðkins Iïja
 
 5 Lanka Elîna
