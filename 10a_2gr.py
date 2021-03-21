@@ -19,7 +19,7 @@ print(5+6)
 9 Mieme Karîna
 
 10 Orlova Sofija
-
+print(sin(radians(30)+fmod(13,2)))
 11 Stukone Patrîcija
 
 12 Tûcis Òikita
